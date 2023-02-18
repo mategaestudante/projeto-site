@@ -190,6 +190,9 @@ b{
  
  
 }
+.bloco>ul{
+    list-style-position: inside;
+}
 .dominador{
     padding-top: 30px;
 }
@@ -214,6 +217,7 @@ b{
 }
 .lista1{
     font-size: 17px;
+    padding-left: 5px;
 }
 .lista2{
    font-size: 17px;
